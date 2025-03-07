@@ -1,0 +1,15 @@
+music = { 
+    "telugu songs" : "https://www.youtube.com/watch?v=CrN3T0vDpt8&list=RDQMOlGb2qkvdBM&start_radio=1",
+    "english songs" : "https://www.youtube.com/watch?v=U0ZoqmyGJo8",
+    "hindi songs" : "https://www.youtube.com/watch?v=PrEuE1Rq1VA",
+    "believer": "https://www.youtube.com/watch?v=7wtfhZwyrcc",
+    "shape of you": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
+    "despacito": "https://www.youtube.com/watch?v=kJQP7kiw5Fk",
+    "thunder": "https://www.youtube.com/watch?v=fKopy74weus",
+    "perfect": "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+    "see you again": "https://www.youtube.com/watch?v=RgKAFK5djSk",
+    "uptown funk": "https://www.youtube.com/watch?v=OPf0YbXqDm0",
+    "havana": "https://www.youtube.com/watch?v=BQ0mxQXmLsk",
+    "roar": "https://www.youtube.com/watch?v=CevxZvSJLk8",
+    "blank space": "https://www.youtube.com/watch?v=e-ORhEE9VVg",
+}
